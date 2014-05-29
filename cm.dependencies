@@ -1,6 +1,14 @@
 [
  {
-   "repository": "android_kernel_lge_v500",
-   "target_path": "kernel/lge/v500"
+  "remote": "gh",
+   "repository": "CyanogenMod/android_kernel_lge_v500",
+   "target_path": "kernel/lge/v500",
+   "revision": "cm-11.0"
+ },
+ {
+  "remote": "gh",
+   "repository": "TheMuppets/proprietary_vendor_lge",
+   "target_path": "vendor/lge",
+   "revision": "cm-11.0"
  }
 ]
