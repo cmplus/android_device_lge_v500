@@ -84,7 +84,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PROPERTY_OVERRIDES += \
 	ro.opengles.version=196608
-
+        otaupdater.otaid=cmv500
 # Audio Configuration
 # FIXME: Remove persist.audio.handset.mic and persist.audio.fluence.mode
 #        while switching new audio HAL from legacy HAL
